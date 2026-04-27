@@ -40,6 +40,9 @@ skill-name/
 ---
 name: skill-name
 description: Brief description of capability. Use when [specific triggers].
+metadata:  
+    author: your-github-username
+    version: "1.0"
 ---
 
 # Skill Name
